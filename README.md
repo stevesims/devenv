@@ -64,111 +64,70 @@ In main non dev browser:
  - SourceTree http://www.sourcetreeapp.com 
  - Node.js http://nodejs.org 
    - Grunt, yeoman
+
        bower sudo npm install -g grunt yo bower
 
-Ruby (on Mac already? Might need to install Xcode first..) https://www.ruby-lang.org/en/downloads/  http://rubyinstaller.org/
-
-    Sass (gem install sass)
+ - Ruby 
+   - (on Mac already? Might need to install Xcode first..)
+   - [Linux](https://www.ruby-lang.org/en/downloads/)
+   - [Windows](http://rubyinstaller.org/)
+   - Sass (gem install sass)
         sudo gem install sass --version=3.3.0.rc.1
-    Compass
+   - Compass
         sudo gem install compass --version=0.13.alpha.4
-    Bourbon?
+   - Bourbon?
 
-Sublime markdown colouring
+ - Sublime markdown colouring
+   - cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ Default
+   - subl Monokai.tmTheme
+   - add contents of http://www.bram.us/2013/02/08/sublime-text-markdown-syntax-highlighting/  before </array>
 
- - cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ Default
+##Mac:
 
- - subl Monokai.tmTheme
+ - Xcode (Mac AppStore, requires login)
+ - Xcode command line tools
+ - Cornerstone  http://www.zennaware.com/cornerstone/index.php 
+ - register using serial in email ('Cornerstone 2 Purchase' from Zennaware)
+ - Quicklook Markdown - https://github.com/toland/qlmarkdown  https://github.com/toland/qlmarkdown/downloads 
+ - Mac Ports or Homebrew
+ - Finder config
+   - disable natural scroll
+   - Desktop, View -> Sort by -> name
+   - Finder Preferences -> New finder window show home folder
+   - System Preferences -> Security and Privacy -> Require password immediately after wake/screensaver
+       - Allow applications downloaded from anywhere
+   - System Preferences -> Display arrangement
+   - File Vault?
 
- - add contents of http://www.bram.us/2013/02/08/sublime-text-markdown-syntax-highlighting/  before </array>
+##Windows:
 
-Mac:
+ - TortoiseSVN
+ - TortoiseGit
+ - VisualStudio Express 2013 Web
 
-Xcode (Mac AppStore, requires login)
+##For Java projects:
 
-Xcode command line tools
+ - Java SE 6u41
+ - MySQL 5.5.27
+ - MySQL Workbench 5.2.47
+   - CREATE USER 'devuser'@'localhost' IDENTIFIED BY 'devpassword';
+   - GRANT ALL PRIVILEGES ON *.* TO 'devuser'@'localhost';
+ - Tomcat 6.0.36
+   - In Windows, copy to C:\Program Files\Apache\apache-tomcat-6.0.36\
+ - Maven 3.0.5 or later
+   - In Windows, copy to C:\Program Files\Apache\apache-maven-3.0.5\
 
-Cornerstone  http://www.zennaware.com/cornerstone/index.php 
-
-    register using serial in email ('Cornerstone 2 Purchase' from Zennaware)
-
-Quicklook Markdown - https://github.com/toland/qlmarkdown  https://github.com/toland/qlmarkdown/downloads 
-Mac Ports or Homebrew
-Finder config
-
-    disable natural scroll
-    Desktop, View -> Sort by -> name
-    Finder Preferences -> New finder window show home folder
-    System Preferences -> Security and Privacy -> Require password immediately after wake/screensaver
-        Allow applications downloaded from anywhere
-    System Preferences -> Display arrangement
-    File Vault?
-
-Windows:
-
-TortoiseSVN
-
-TortoiseGit
-
-VisualStudio Express 2013 Web
-
-For Java projects:
-
- 
-
-Java SE 6u41
-
- 
-
-MySQL 5.5.27
-
--          MySQL Workbench 5.2.47
-
--          CREATE USER 'devuser'@'localhost' IDENTIFIED BY 'devpassword';
-
--          GRANT ALL PRIVILEGES ON *.* TO 'devuser'@'localhost';
-
- 
-
-Tomcat 6.0.36
-
--          In Windows, copy to C:\Program Files\Apache\apache-tomcat-6.0.36\
-
- 
-
-Maven 3.0.5 or later
-
--          In Windows, copy to C:\Program Files\Apache\apache-maven-3.0.5\
-
- 
-
- 
-
-For ASP.Net projects:
-
- 
+##For ASP.Net projects:
 
 Visual Studio 2012
 
- 
-
- 
-
-For client specific projects:
-
- 
-
 ## Fonts
 
- 
+ - Helvetica
+ - Trade Gothic
+ - Bodoni
 
-Helvetica
-Trade Gothic
+##Other
 
- 
-
-## Other
-
-Skype
-
-iTunes
+ - Skype
+ - iTunes
