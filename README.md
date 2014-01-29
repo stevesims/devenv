@@ -1,7 +1,7 @@
 devenv
 ======
 
-Spec and (eventually) scripts to set up development environment
+Spec and (eventually, maybe) scripts to set up development environment
 
 ## Core (priority and needs licence):
 
@@ -60,9 +60,21 @@ In main non dev browser:
    - Set up tabs
      - Preferences -> Settings ­ User, add property "translate_tabs_to_spaces": true into root object. 
  - Git http://git-scm.com/download (already on Mac OS X)
- - GitHub http://mac.github.com  http://windows.github.com 
- - SourceTree http://www.sourcetreeapp.com 
- - Node.js http://nodejs.org 
+ - Git GUI
+   - Windows
+     - [TortoiseGit](http://code.google.com/p/tortoisegit/)
+     - [GitHub](http://windows.github.com)
+     - [SourceTree](http://www.sourcetreeapp.com)
+   - Mac
+     - [GitHub](http://mac.github.com)
+     - [Tower](http://www.git-tower.com/)?
+ - SVN Client
+   - Windows
+     - [TortoiseSVN](http://tortoisesvn.net/)
+   - Mac
+     - [Cornerstone](http://www.zennaware.com/cornerstone/index.php)
+       - register using serial in email ('Cornerstone 2 Purchase' from Zennaware)
+ - [Node.js](http://nodejs.org)
    - Grunt, yeoman
 
        bower sudo npm install -g grunt yo bower
@@ -71,10 +83,12 @@ In main non dev browser:
    - (on Mac already? Might need to install Xcode first..)
    - [Linux](https://www.ruby-lang.org/en/downloads/)
    - [Windows](http://rubyinstaller.org/)
-   - Sass (gem install sass)
-        sudo gem install sass --version=3.3.0.rc.1
-   - Compass
-        sudo gem install compass --version=0.13.alpha.4
+   - Sass & Compass
+     - sudo gem install sass compass
+   - Sass specific/beta
+     - sudo gem install sass --version=3.3.0.rc.1
+   - Compass specific/beta
+     - sudo gem install compass --version=0.13.alpha.4
    - Bourbon?
 
  - Sublime markdown colouring
@@ -86,8 +100,6 @@ In main non dev browser:
 
  - Xcode (Mac AppStore, requires login)
  - Xcode command line tools
- - Cornerstone  http://www.zennaware.com/cornerstone/index.php 
- - register using serial in email ('Cornerstone 2 Purchase' from Zennaware)
  - Quicklook Markdown - https://github.com/toland/qlmarkdown  https://github.com/toland/qlmarkdown/downloads 
  - Mac Ports or Homebrew
  - Finder config
@@ -101,9 +113,8 @@ In main non dev browser:
 
 ##Windows:
 
- - TortoiseSVN
- - TortoiseGit
  - VisualStudio Express 2013 Web
+ - config show all file extensions
 
 ##For Java projects:
 
