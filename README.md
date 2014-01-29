@@ -10,43 +10,31 @@ Spec and (eventually) scripts to set up development environment
 
 ## Browsers + testing:
 
-
-[Firefox](http://www.mozilla.org)
-
-(Tools -> Add-ons)
-
- - Web developer
- - Firebug
- - Dust me selectors
- - YSlow
- - Total Validator
-
-go to about:config, change devtools.inspector.enabled
-
- 
-
+ - [Firefox](http://www.mozilla.org)
+   - (Tools -> Add-ons)
+     - Web developer
+     - Firebug
+     - Dust me selectors
+     - YSlow
+     - Total Validator
+   - go to about:config, change devtools.inspector.enabled
  - [Chrome](https://www.google.com/intl/en/chrome/browser/)
- - [Android Emulator](http://developer.android.com/sdk/index.html), part of Android Developer Tools, installed with SDK 
-(launch 'android' from tools folder to get Android SDK Manager and 'Manage AVDs')
+ - [Android Emulator](http://developer.android.com/sdk/index.html)
+   - part of Android Developer Tools, installed with SDK 
+   - launch 'android' from tools folder to get Android SDK Manager and 'Manage AVDs'
  - VirtualPC or [VirtualBox](https://www.virtualbox.org/wiki/Downloads ) in Mac OS X 
- - IE 8-10 virtual machines from http://www.modern.ie/en-us/virtualization-tools 
- - Charles web debugger http://www.charlesproxy.com 
+ - [IE 8-10 virtual machines](http://www.modern.ie/en-us/virtualization-tools)  
+ - [Charles web debugger](http://www.charlesproxy.com) 
 
  
-
 In main non dev browser:
 
-Adblock
-
-Tracking (d..)
-
- 
+ - Adblock
+ - Tracking (d..)
 
 ## Dev tools:
 
- 
-
-Sublime http://www.sublimetext.com 
+- Sublime http://www.sublimetext.com 
 
     Register using serial in email ('Sublime Text License Key' from sales@sublimetext.com)
     Set up command line access 
