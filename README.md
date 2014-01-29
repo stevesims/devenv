@@ -40,26 +40,27 @@ In main non dev browser:
        - (Terminal -> preferences -> settings -> Pro -> Default)
        - mkdir ~/bin
        - ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
-   - Package manager http://wbond.net/sublime_packages/package_control/installation
+   - [Package manager](http://wbond.net/sublime_packages/package_control/installation)
    - Packages - command-shift-p -> Install package (ip)
-       - EditorConfig
-       - Handlebars
-       - HTMLBeautify
-       - (Grunt)
-       - JavaScript Beautify
-       - JSHint
-       - Markdown Extended
-       - (Razor)
-       - Sass
-       - SassBeautify
-       - (sublime-jslint)
+     - EditorConfig
+     - Handlebars
+     - HTMLBeautify
+     - JavaScript Beautify
+     - JSHint
+     - Markdown Extended
+     - Sass
+     - SassBeautify
    - Sometimes:
-     - yui compressor http://tech.diaslopes.com/?p=61
+     - Grunt
+     - Razor
+     - sublime-jslint
+     - [yui compressor](http://tech.diaslopes.com/?p=61)
      - [Mustache/underscore template hack](http://stackoverflow.com/questions/9655039/sublime-text-2-recognize-underscore-templates-as-html)
-
    - Set up tabs
      - Preferences -> Settings ­ User, add property "translate_tabs_to_spaces": true into root object. 
- - Git http://git-scm.com/download (already on Mac OS X)
+ - Git
+   - [Official](http://git-scm.com/download) (already on Mac OS X)
+   - [Git For Windows](http://code.google.com/p/msysgit/) (required by TortoiseGit?)
  - Git GUI
    - Windows
      - [TortoiseGit](http://code.google.com/p/tortoisegit/)
@@ -76,9 +77,7 @@ In main non dev browser:
        - register using serial in email ('Cornerstone 2 Purchase' from Zennaware)
  - [Node.js](http://nodejs.org)
    - Grunt, yeoman
-
-       bower sudo npm install -g grunt yo bower
-
+     - 'bower sudo npm install -g grunt yo bower'
  - Ruby 
    - (on Mac already? Might need to install Xcode first..)
    - [Linux](https://www.ruby-lang.org/en/downloads/)
@@ -90,7 +89,6 @@ In main non dev browser:
    - Compass specific/beta
      - sudo gem install compass --version=0.13.alpha.4
    - Bourbon?
-
  - Sublime markdown colouring
    - cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ Default
    - subl Monokai.tmTheme
