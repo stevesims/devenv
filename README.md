@@ -112,7 +112,14 @@ In main non dev browser:
 ##Windows:
 
  - VisualStudio Express 2013 Web
- - config show all file extensions
+ - Show all file extensions
+   - Windows 7
+     - Start 
+     - Control Panel
+     - Appearance and Personalization
+     - Folder Options
+     - View
+     - Uncheck 'Hide extensions for known filetypes'
 
 ##For Java projects:
 
