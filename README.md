@@ -3,12 +3,12 @@ devenv
 
 Spec and (eventually, maybe) scripts to set up development environment
 
-## Core (priority and needs licence):
+##Core (priority and needs licence):
 
  - Photoshop
  - Illustrator
 
-## Browsers + testing:
+##Browsers & Testing
 
  - [Firefox](http://www.mozilla.org)
    - (Tools -> Add-ons)
@@ -27,12 +27,12 @@ Spec and (eventually, maybe) scripts to set up development environment
  - [Charles web debugger](http://www.charlesproxy.com) 
 
  
-In main non dev browser:
+In main non dev browser
 
  - Adblock
  - Tracking (d..)
 
-## Dev tools:
+##Dev Tools
 
  - [Sublime](http://www.sublimetext.com)
    - Register using serial in email ('Sublime Text License Key' from sales@sublimetext.com)
@@ -94,7 +94,7 @@ In main non dev browser:
    - subl Monokai.tmTheme
    - add contents of http://www.bram.us/2013/02/08/sublime-text-markdown-syntax-highlighting/  before </array>
 
-##Mac:
+##Mac
 
  - Xcode (Mac AppStore, requires login)
  - Xcode command line tools
@@ -102,14 +102,20 @@ In main non dev browser:
  - Mac Ports or Homebrew
  - Finder config
    - disable natural scroll
-   - Desktop, View -> Sort by -> name
-   - Finder Preferences -> New finder window show home folder
-   - System Preferences -> Security and Privacy -> Require password immediately after wake/screensaver
+   - Desktop
+     - View
+     - Sort by
+     - Name
+   - Finder Preferences
+     - New finder window show home folder
+   - System Preferences
+     - Security and Privacy
+       - Require password immediately after wake/screensaver
        - Allow applications downloaded from anywhere
-   - System Preferences -> Display arrangement
+     - Display arrangement
    - File Vault?
 
-##Windows:
+##Windows
 
  - VisualStudio Express 2013 Web
  - Show all file extensions
@@ -121,7 +127,7 @@ In main non dev browser:
      - View
      - Uncheck 'Hide extensions for known filetypes'
 
-##For Java projects:
+##Java
 
  - Java SE 6u41
  - MySQL 5.5.27
@@ -133,11 +139,11 @@ In main non dev browser:
  - Maven 3.0.5 or later
    - In Windows, copy to C:\Program Files\Apache\apache-maven-3.0.5\
 
-##For ASP.Net projects:
+##ASP.Net
 
-Visual Studio 2012
+ - Visual Studio 2012
 
-## Fonts
+##Fonts
 
  - Helvetica
  - Trade Gothic
