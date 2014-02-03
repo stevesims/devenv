@@ -44,6 +44,7 @@ In main non dev browser
    - [Package manager](http://wbond.net/sublime_packages/package_control/installation)
    - Packages - command-shift-p -> Install package (ip)
      - EditorConfig
+     - Emmet
      - Handlebars
      - HTMLBeautify
      - JavaScript Beautify
@@ -51,6 +52,7 @@ In main non dev browser
      - Markdown Extended
      - Sass
      - SassBeautify
+     - SideBar
    - Sometimes:
      - Grunt
      - Razor
