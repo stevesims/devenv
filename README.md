@@ -45,7 +45,9 @@ In main non dev browser
    - Packages - command-shift-p -> Install package (ip)
      - EditorConfig
      - Emmet
-       - [Disable CSS completion](http://stackoverflow.com/questions/19902809/how-do-i-disable-emmets-css-abbreviations-in-sublime-text-2)
+       - [Disable SCSS completion](http://stackoverflow.com/questions/19902809/how-do-i-disable-emmets-css-abbreviations-in-sublime-text-2)
+         - set contents of Sublime Text 2\Packages\User\Emmet.sublime-settings to:
+         - {"disable_tab_abbreviations_for_scopes": "source.scss"}
      - Handlebars
      - HTMLBeautify
      - JavaScript Beautify
