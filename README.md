@@ -3,7 +3,7 @@ devenv
 
 Spec and (eventually, maybe) scripts to set up development environment
 
-##Core (priority and needs licence):
+##Non Dev Tools, Need license
 
  - Photoshop
  - Illustrator
