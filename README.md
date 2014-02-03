@@ -5,8 +5,9 @@ Spec and (eventually, maybe) scripts to set up development environment
 
 ##Non Dev Tools, Need license
 
- - Photoshop
- - Illustrator
+ - [Adobe CS](http://helpx.adobe.com/x-productkb/policy-pricing/cs6-product-downloads.html)
+   - Photoshop
+   - Illustrator
 
 ##Browsers & Testing
 
