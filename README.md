@@ -45,6 +45,7 @@ In main non dev browser
    - Packages - command-shift-p -> Install package (ip)
      - EditorConfig
      - Emmet
+       - [Disable CSS completion](http://stackoverflow.com/questions/19902809/how-do-i-disable-emmets-css-abbreviations-in-sublime-text-2)
      - Handlebars
      - HTMLBeautify
      - JavaScript Beautify
