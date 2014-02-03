@@ -31,7 +31,7 @@ Spec and (eventually, maybe) scripts to set up development environment
 In main non dev browser
 
  - Adblock
- - Tracking (d..)
+ - Disconnect
 
 ##Dev Tools
 
