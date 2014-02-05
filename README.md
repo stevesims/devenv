@@ -151,6 +151,8 @@ In main non dev browser
 ##ASP.Net
 
  - Visual Studio 2012
+ - IIS
+ - SQL Server
 
 ##Fonts
 
