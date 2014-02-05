@@ -37,8 +37,7 @@ In main non dev browser
 
  - [Sublime](http://www.sublimetext.com)
    - Register using serial in email ('Sublime Text License Key' from sales@sublimetext.com)
-     - Set up command line access 
-       - (Terminal -> preferences -> settings -> Pro -> Default)
+     - Mac: Set up command line access 
        - mkdir ~/bin
        - ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
    - [Package manager](http://wbond.net/sublime_packages/package_control/installation)
@@ -122,6 +121,8 @@ In main non dev browser
        - Allow applications downloaded from anywhere
      - Display arrangement
    - File Vault?
+ - Terminal Config
+   - (Terminal -> preferences -> settings -> Pro -> Default)
 
 ##Windows
 
