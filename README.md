@@ -53,7 +53,7 @@ In main non dev browser
      - JavaScript Beautify
      - JSHint
      - Markdown Extended
-     - Sass
+     - SCSS
      - SassBeautify
      - SideBar
    - Sometimes:
@@ -85,7 +85,7 @@ In main non dev browser
    - Grunt, yeoman
      - 'bower sudo npm install -g grunt grunt-cli yo bower'
  - Ruby 
-   - (on Mac already? Might need to install Xcode first..)
+   - [Mac](http://rvm.io/)
    - [Linux](https://www.ruby-lang.org/en/downloads/)
    - [Windows](http://rubyinstaller.org/)
    - Sass & Compass
@@ -104,6 +104,9 @@ In main non dev browser
 
  - Xcode (Mac AppStore, requires login)
  - Xcode command line tools
+ - [LiveReload](http://www.livereload.com/) ([download](http://download.livereload.com/LiveReload-2.3.34.zip))
+ - [terminal-notifier](https://github.com/alloy/terminal-notifier)
+   - alias gpu=‘git pull && terminal-notifier -message "Git Pull complete"'
  - Quicklook Markdown - https://github.com/toland/qlmarkdown  https://github.com/toland/qlmarkdown/downloads 
  - Mac Ports or Homebrew
  - Finder config
