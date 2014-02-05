@@ -104,7 +104,9 @@ In main non dev browser
  - [LiveReload](http://www.livereload.com/) ([download](http://download.livereload.com/LiveReload-2.3.34.zip))
  - [terminal-notifier](https://github.com/alloy/terminal-notifier)
    - alias gpu=‘git pull && terminal-notifier -message "Git Pull complete"'
- - Quicklook Markdown - https://github.com/toland/qlmarkdown  https://github.com/toland/qlmarkdown/downloads 
+ - Markdown
+   - Quicklook Markdown - https://github.com/toland/qlmarkdown  https://github.com/toland/qlmarkdown/downloads 
+   - [Mou](http://mouapp.com/)
  - Mac Ports or Homebrew
  - Finder config
    - disable natural scroll
