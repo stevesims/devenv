@@ -3,6 +3,10 @@ devenv
 
 Spec and (eventually, maybe) scripts to set up development environment
 
+##Auto setup Tools
+ - [Get Mac Apps](http://getmacapps.com/)
+ - [Ninite](http://ninite.com/)
+
 ##Non Dev Tools, Need license
 
  - [Adobe CS](http://helpx.adobe.com/x-productkb/policy-pricing/cs6-product-downloads.html)
