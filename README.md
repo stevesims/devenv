@@ -3,7 +3,7 @@ devenv
 
 Spec and (eventually, maybe) scripts to set up development environment
 
-##Auto setup Tools
+##Auto Setup Tools
  - [Get Mac Apps](http://getmacapps.com/)
  - [Ninite](http://ninite.com/)
 
