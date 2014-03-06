@@ -139,6 +139,8 @@ In main non dev browser
      - Folder Options
      - View
      - Uncheck 'Hide extensions for known filetypes'
+ - IIS
+ - SQL Server
 
 ##Java
 
@@ -152,12 +154,6 @@ In main non dev browser
  - Maven 3.0.5 or later
    - In Windows, copy to C:\Program Files\Apache\apache-maven-3.0.5\
 
-##ASP.Net
-
- - Visual Studio 2012
- - IIS
- - SQL Server
-
 ##Fonts
 
  - Helvetica
@@ -166,5 +162,6 @@ In main non dev browser
 
 ##Other
 
- - Skype
- - iTunes
+ - [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
+ - [iTunes](https://www.apple.com/uk/itunes/)
+ - [Synergy](http://synergy-foss.org/)
