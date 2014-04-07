@@ -88,6 +88,7 @@ In main non dev browser
    - [Mac](http://rvm.io/)
    - [Linux](https://www.ruby-lang.org/en/downloads/)
    - [Windows](http://rubyinstaller.org/)
+   - [Ruby Version Manager](rvm.io)
    - Sass & Compass
      - sudo gem install sass compass
    - Sass specific/beta
