@@ -30,6 +30,7 @@ Spec and (eventually, maybe) scripts to set up development environment
  - VirtualPC or [VirtualBox](https://www.virtualbox.org/wiki/Downloads ) in Mac OS X 
  - [IE 8-10 virtual machines](http://www.modern.ie/en-us/virtualization-tools)  
  - [Charles web debugger](http://www.charlesproxy.com) 
+   - Registration in email 'Charles User License' from 'Charles License <licensing@charlesproxy.com>'
 
  
 In main non dev browser
