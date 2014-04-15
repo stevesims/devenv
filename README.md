@@ -140,7 +140,7 @@ In main non dev browser
      - Folder Options
      - View
      - Uncheck 'Hide extensions for known filetypes'
- - IIS (Install Windows Components)
+ - IIS (Start -> Windows Features)
  - SQL Server
 
 ##Java
