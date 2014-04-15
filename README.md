@@ -156,12 +156,17 @@ In main non dev browser
 
 ##Fonts
 
- - Helvetica
- - Trade Gothic
- - Bodoni
- - Frutiger
- - Myriad
- - Bebas
+ - Free
+  - [Bebas](http://fontfabric.com/bebas-neue/)
+  - [Popular](http://www.fontsquirrel.com/fonts/list/popular)
+ - Commercial
+  - Helvetica
+  - Trade Gothic
+  - Bodoni
+  - Frutiger
+  - Myriad
+  - Clarendon
+  - Bau
 
 ##Other
 
