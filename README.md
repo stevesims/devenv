@@ -130,7 +130,7 @@ In main non dev browser
 
 ##Windows
 
- - VisualStudio Express 2013 Web
+ - [VisualStudio Express 2013 Web](http://www.microsoft.com/en-gb/download/details.aspx?id=40747)
  - Show all file extensions
    - Windows 7
      - Start 
@@ -139,20 +139,20 @@ In main non dev browser
      - Folder Options
      - View
      - Uncheck 'Hide extensions for known filetypes'
- - IIS
+ - IIS (Install Windows Components)
  - SQL Server
 
 ##Java
 
- - Java SE 6u41
- - MySQL 5.5.27
- - MySQL Workbench 5.2.47
+ - [Java SE JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp)
+ - [MySQL](http://dev.mysql.com/downloads/mysql/)
+ - [MySQL Workbench](http://dev.mysql.com/downloads/tools/workbench/)
    - CREATE USER 'devuser'@'localhost' IDENTIFIED BY 'devpassword';
    - GRANT ALL PRIVILEGES ON *.* TO 'devuser'@'localhost';
- - Tomcat 6.0.36
-   - In Windows, copy to C:\Program Files\Apache\apache-tomcat-6.0.36\
- - Maven 3.0.5 or later
-   - In Windows, copy to C:\Program Files\Apache\apache-maven-3.0.5\
+ - [Tomcat](http://tomcat.apache.org/download-80.cgi)
+   - In Windows, copy to C:\Program Files\Apache\apache-tomcat-x.x.x\
+ - [Maven](http://maven.apache.org/download.cgi)
+   - In Windows, copy to C:\Program Files\Apache\apache-maven-x.x.x\
 
 ##Fonts
 
