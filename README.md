@@ -132,6 +132,8 @@ In main non dev browser
 ##Windows
 
  - [VisualStudio Express 2013 Web](http://www.microsoft.com/en-gb/download/details.aspx?id=40747)
+ - [Web Platform Installer](http://www.microsoft.com/web/downloads/platform.aspx)
+  - e.g. URLRewrite module
  - Show all file extensions
    - Windows 7
      - Start 
