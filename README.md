@@ -4,8 +4,8 @@ devenv
 Spec and (eventually, maybe) scripts to set up development environment
 
 ##Auto Setup Tools
- - [Get Mac Apps](http://getmacapps.com/)
- - [Ninite](http://ninite.com/)
+ - Mac: [Get Mac Apps](http://getmacapps.com/)
+ - Windows: [Ninite](http://ninite.com/)
 
 ##Non Dev Tools, Need license
 
@@ -15,7 +15,7 @@ Spec and (eventually, maybe) scripts to set up development environment
 
 ##Browsers & Testing
 
- - [Firefox](http://www.mozilla.org)
+ - [Firefox](http://mozilla.org/en-GB/products/download.html)
    - (Tools -> Add-ons)
      - Web developer
      - Firebug
@@ -35,8 +35,8 @@ Spec and (eventually, maybe) scripts to set up development environment
  
 In main non dev browser
 
- - Adblock
- - Disconnect
+ - [Adblock](https://adblockplus.org)
+ - [Disconnect](https://disconnect.me)
 
 ##Dev Tools
 
@@ -54,15 +54,13 @@ In main non dev browser
      - JavaScript Beautify
      - JSHint
      - Markdown Extended
-     - SCSS
-     - SassBeautify
-     - SideBar
-   - Sometimes:
-     - Grunt
      - Razor
-     - sublime-jslint
-     - [yui compressor](http://tech.diaslopes.com/?p=61)
-     - [Mustache/underscore template hack](http://stackoverflow.com/questions/9655039/sublime-text-2-recognize-underscore-templates-as-html)
+     - SassBeautify
+     - SCSS
+     - SideBar
+     - Sometimes
+       - [yui compressor](http://tech.diaslopes.com/?p=61)
+       - [Mustache/underscore template hack](http://stackoverflow.com/questions/9655039/sublime-text-2-recognize-underscore-templates-as-html)
    - Set up tabs
      - Preferences -> Settings ­ User, add property "translate_tabs_to_spaces": true into root object. 
  - Git
