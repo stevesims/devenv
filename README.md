@@ -27,6 +27,7 @@ Spec and (eventually, maybe) scripts to set up development environment
  - [Android Emulator](http://developer.android.com/sdk/index.html)
    - part of Android Developer Tools, installed with SDK 
    - launch 'android' from tools folder to get Android SDK Manager and 'Manage AVDs'
+   - Windows, copy to C:\Program Files\Google
  - VirtualPC or [VirtualBox](https://www.virtualbox.org/wiki/Downloads ) in Mac OS X 
  - [IE 8-10 virtual machines](http://www.modern.ie/en-us/virtualization-tools)  
  - [Charles web debugger](http://www.charlesproxy.com) 
@@ -65,7 +66,7 @@ In main non dev browser
      - Preferences -> Settings ­ User, add property "translate_tabs_to_spaces": true into root object. 
  - Git
    - [Official](http://git-scm.com/download) (already on Mac OS X)
-   - [Git For Windows](http://code.google.com/p/msysgit/) (required by TortoiseGit?)
+   - [Git For Windows](http://msysgit.github.io/) (official port, newer versions available)
  - Git GUI
    - Windows
      - [TortoiseGit](http://code.google.com/p/tortoisegit/)
