@@ -159,6 +159,9 @@ In main non dev browser
  - Helvetica
  - Trade Gothic
  - Bodoni
+ - Frutiger
+ - Myriad
+ - Bebas
 
 ##Other
 
