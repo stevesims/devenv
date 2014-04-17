@@ -5,7 +5,10 @@ Spec and (eventually, maybe) scripts to set up development environment
 
 ##Auto Setup Tools
  - Mac: [Get Mac Apps](http://getmacapps.com/)
+  - http://getmacapps.com/install/74fenqmttxql
+  - `curl -s http://getmacapps.com/raw/74fenqmttxql | sh`
  - Windows: [Ninite](http://ninite.com/)
+ - [Puppet](https://github.com/puppetlabs/puppet)
 
 ##Non Dev Tools, Need license
 
@@ -47,17 +50,27 @@ In main non dev browser
        - mkdir ~/bin
        - ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
    - [Package manager](http://wbond.net/sublime_packages/package_control/installation)
-   - Packages - command-shift-p -> Install package (ip)
-     - EditorConfig
-     - Emmet
-     - Handlebars
-     - HTMLBeautify
-     - JavaScript Beautify
-     - JSHint
-     - Markdown Extended
-     - Razor
-     - SassBeautify
-     - SCSS
+   - Go to Preferences -> Browser Packages -> User -> edit 'Package Control.sublime-settings'
+
+        ```
+        {
+        	"installed_packages":
+        	[
+        		"EditorConfig",
+        		"Emmet",
+        		"Handlebars",
+        		"HTMLBeautify",
+        		"Javascript Beautify",
+        		"JSHint",
+        		"Markdown Extended",
+        		"Package Control",
+        		"Razor",
+        		"SassBeautify",
+        		"SCSS"
+        	]
+        }
+        ```
+
      - SideBar
      - Sometimes
        - [yui compressor](http://tech.diaslopes.com/?p=61)
