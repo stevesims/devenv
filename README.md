@@ -96,7 +96,7 @@ In main non dev browser
        - register using serial in email ('Cornerstone 2 Purchase' from Zennaware)
  - [Node.js](http://nodejs.org)
    - Grunt, yeoman
-     - 'bower sudo npm install -g grunt grunt-cli yo bower'
+     - `sudo npm install -g grunt grunt-cli yo bower`
  - Ruby 
    - Mac (already installed)
    - [Linux](https://www.ruby-lang.org/en/downloads/)
