@@ -98,10 +98,10 @@ In main non dev browser
    - Grunt, yeoman
      - 'bower sudo npm install -g grunt grunt-cli yo bower'
  - Ruby 
-   - [Mac](http://rvm.io/)
+   - Mac (already installed)
    - [Linux](https://www.ruby-lang.org/en/downloads/)
    - [Windows](http://rubyinstaller.org/)
-   - [Ruby Version Manager](rvm.io)
+   - [Ruby Version Manager](http://rvm.io)
    - Sass & Compass
      - sudo gem install sass compass
    - Sass specific/beta
