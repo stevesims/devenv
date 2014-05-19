@@ -126,7 +126,7 @@ In main non dev browser
    - [Mou](http://mouapp.com/)
  - Mac Ports or Homebrew
  - Finder config
-   - disable natural scroll
+   - Disable natural scroll
    - Desktop
      - View
      - Sort by
@@ -138,6 +138,8 @@ In main non dev browser
        - Require password immediately after wake/screensaver
        - Allow applications downloaded from anywhere
      - Display arrangement
+     - Turn Spelling auto correct off
+     - Hot corners
    - File Vault?
  - Terminal Config
    - (Terminal -> preferences -> settings -> Pro -> Default)
