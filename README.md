@@ -177,6 +177,7 @@ In main non dev browser
  - Free
   - [Bebas](http://fontfabric.com/bebas-neue/)
   - [Popular](http://www.fontsquirrel.com/fonts/list/popular)
+  - Oswald
  - Commercial
   - Helvetica
   - Trade Gothic
@@ -185,6 +186,7 @@ In main non dev browser
   - Myriad
   - Clarendon
   - Bau
+  - Gotham Condensed
 
 ##Other
 
