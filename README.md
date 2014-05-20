@@ -125,6 +125,7 @@ In main non dev browser
    - Quicklook Markdown - https://github.com/toland/qlmarkdown  https://github.com/toland/qlmarkdown/downloads 
    - [Mou](http://mouapp.com/)
  - Mac Ports or Homebrew
+ - [GeekTool](http://projects.tynsoe.org/en/geektool/)
  - Finder config
    - Disable natural scroll
    - Desktop
