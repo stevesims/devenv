@@ -50,7 +50,7 @@ In main non dev browser
        - mkdir ~/bin
        - ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
    - [Package manager](http://wbond.net/sublime_packages/package_control/installation)
-   - Go to Preferences -> Browser Packages -> User -> edit 'Package Control.sublime-settings'
+   - Go to Preferences -> Browse Packages -> User -> edit 'Package Control.sublime-settings'
 
         ```
         {
