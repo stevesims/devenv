@@ -31,7 +31,7 @@ Spec and (eventually, maybe) scripts to set up development environment
    - part of Android Developer Tools, installed with SDK 
    - launch 'android' from tools folder to get Android SDK Manager and 'Manage AVDs'
    - Windows, copy to C:\Program Files\Google
- - VirtualPC or [VirtualBox](https://www.virtualbox.org/wiki/Downloads ) in Mac OS X 
+ - [VirtualPC](http://www.microsoft.com/en-gb/download/details.aspx?id=3702) or [VirtualBox](https://www.virtualbox.org/wiki/Downloads ) in Mac OS X 
  - [IE 8-10 virtual machines](http://www.modern.ie/en-us/virtualization-tools)  
  - [Charles web debugger](http://www.charlesproxy.com) 
    - Registration in email 'Charles User License' from 'Charles License <licensing@charlesproxy.com>'
