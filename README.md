@@ -115,7 +115,8 @@ In main non dev browser
    - add contents of http://www.bram.us/2013/02/08/sublime-text-markdown-syntax-highlighting/  before </array>
  - [Vagrant](http://www.vagrantup.com/)
    - [Vagrant Manager](http://vagrantmanager.com/)
- - Maven (recommend using home brew + 'update maven')
+ - Maven
+   - brew install maven
 
 ##Mac
 
