@@ -113,6 +113,9 @@ In main non dev browser
    - cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ Default
    - subl Monokai.tmTheme
    - add contents of http://www.bram.us/2013/02/08/sublime-text-markdown-syntax-highlighting/  before </array>
+ - [Vagrant](http://www.vagrantup.com/)
+   - [Vagrant Manager](http://vagrantmanager.com/)
+ - Maven (recommend using home brew + 'update maven')
 
 ##Mac
 
