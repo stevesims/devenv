@@ -51,6 +51,8 @@ In main non dev browser
        - ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
    - [Package manager](http://wbond.net/sublime_packages/package_control/installation)
    - Go to Preferences -> Browse Packages -> User -> edit 'Package Control.sublime-settings'
+   - Preferences -> Package Settings
+     - Package Control -> User Settings
 
         ```
         {
@@ -70,7 +72,13 @@ In main non dev browser
         	]
         }
         ```
-
+        
+       - JavaScript Beautify -> User Settings
+       
+        ```
+       {"use_original_indentation": true}
+        ```
+        
      - SideBar
      - Sometimes
        - [yui compressor](http://tech.diaslopes.com/?p=61)
