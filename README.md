@@ -153,6 +153,8 @@ In main non dev browser
      - Display arrangement
      - Turn Spelling auto correct off
      - Hot corners
+     - Keyboard access:
+       - Keyboard -> Shortcuts -> Full Keyboard Access -> All controls
    - File Vault?
  - Terminal Config
    - (Terminal -> preferences -> settings -> Pro -> Default)
