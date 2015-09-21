@@ -44,6 +44,9 @@ In main non dev browser
 
 ##Dev Tools
 
+ - [Node.js](http://nodejs.org)
+   - Grunt, yeoman etc
+     - `sudo npm install -g grunt grunt-cli yo bower gulp jscs express-generator`
  - [Sublime](http://www.sublimetext.com)
    - Register using serial in email ('Sublime Text License Key' from sales@sublimetext.com)
      - Mac: Set up command line access 
@@ -129,9 +132,6 @@ In main non dev browser
    - Mac
      - [Cornerstone](http://www.zennaware.com/cornerstone/index.php)
        - register using serial in email ('Cornerstone 2 Purchase' from Zennaware)
- - [Node.js](http://nodejs.org)
-   - Grunt, yeoman
-     - `sudo npm install -g grunt grunt-cli yo bower`
  - Ruby 
    - Mac (already installed)
    - [Linux](https://www.ruby-lang.org/en/downloads/)
