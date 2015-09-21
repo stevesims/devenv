@@ -56,23 +56,50 @@ In main non dev browser
 
         ```
         {
+        	"bootstrapped": true,
+        	"in_process_packages":
+        	[
+        	],
         	"installed_packages":
         	[
+        		"ChangeQuotes",
+        		"DocBlockr",
         		"EditorConfig",
         		"Emmet",
+        		"Git",
+        		"GitGutter",
         		"Handlebars",
         		"HTMLBeautify",
+        		"Indent XML",
         		"Javascript Beautify",
-        		"JSHint",
+        		"jQuery",
+        		"JSCS-Formatter",
+        		"LESS",
         		"Markdown Extended",
         		"Package Control",
         		"Razor",
         		"SassBeautify",
-        		"SCSS"
+        		"SCSS",
+        		"sublime-closure-linter",
+        		"SublimeLinter",
+        		"SublimeLinter-jscs",
+        		"SublimeLinter-jshint"
+        	],
+        	"repositories":
+        	[
+        		"https://github.com/fbzhong/sublime-closure-linter"
         	]
         }
         ```
-        
+       
+       - Sublime Text > Preferences > Package Settings > JSCS Formatter > Settings - User
+        ```
+        {
+            // Automatically format when a file is saved.
+            "format_on_save": true
+        } 
+        ```
+       
        - JavaScript Beautify -> User Settings
        
         ```
