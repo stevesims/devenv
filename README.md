@@ -46,7 +46,7 @@ In main non dev browser
 
  - [Node.js](http://nodejs.org)
    - Grunt, yeoman etc
-     - `sudo npm install -g grunt grunt-cli yo bower gulp jscs express-generator`
+     - `sudo npm install -g grunt grunt-cli yo bower gulp jscs express-generator node-inspector`
  - [Sublime](http://www.sublimetext.com)
    - Register using serial in email ('Sublime Text License Key' from sales@sublimetext.com)
      - Mac: Set up command line access 
