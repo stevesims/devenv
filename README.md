@@ -75,7 +75,6 @@ In main non dev browser
         		"Indent XML",
         		"Javascript Beautify",
         		"jQuery",
-        		"JSCS-Formatter",
         		"LESS",
         		"Markdown Extended",
         		"Package Control",
@@ -93,19 +92,14 @@ In main non dev browser
         	]
         }
         ```
-       
-       - Sublime Text > Preferences > Package Settings > JSCS Formatter > Settings - User
-        ```
-        {
-            // Automatically format when a file is saved.
-            "format_on_save": true
-        } 
-        ```
-       
+
        - JavaScript Beautify -> User Settings
        
         ```
-       {"use_original_indentation": true}
+       {
+            "format_on_save": true
+            "use_original_indentation": true
+       }
         ```
         
      - SideBar
