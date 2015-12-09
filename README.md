@@ -97,7 +97,7 @@ In main non dev browser
        
         ```
        {
-            "format_on_save": true
+            "format_on_save": true,
             "use_original_indentation": true
        }
         ```
