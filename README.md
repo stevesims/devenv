@@ -145,6 +145,8 @@ In main non dev browser
    - [Vagrant Manager](http://vagrantmanager.com/)
  - Maven
    - brew install maven
+ - React DevTools
+   - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 
 ##Mac
 
