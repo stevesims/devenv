@@ -12,12 +12,14 @@ Spec and (eventually, maybe) scripts to set up development environment
 
 ##Non Dev Tools, Need license
 
- - [Adobe CS](http://helpx.adobe.com/x-productkb/policy-pricing/cs6-product-downloads.html)
+ - [Adobe CS](https://creative.adobe.com/products/download/photoshop)
    - Photoshop
    - Illustrator
 
 ##Browsers & Testing
 
+ - [Chrome](https://www.google.com/intl/en/chrome/browser/)
+ - [Chrome Canary](https://www.google.co.uk/chrome/browser/canary.html)
  - [Firefox](http://mozilla.org/en-GB/products/download.html)
    - (Tools -> Add-ons)
      - Web developer
@@ -26,7 +28,6 @@ Spec and (eventually, maybe) scripts to set up development environment
      - YSlow
      - Total Validator
    - go to about:config, change devtools.inspector.enabled
- - [Chrome](https://www.google.com/intl/en/chrome/browser/)
  - [Android Emulator](http://developer.android.com/sdk/index.html)
    - part of Android Developer Tools, installed with SDK 
    - launch 'android' from tools folder to get Android SDK Manager and 'Manage AVDs'
@@ -46,11 +47,12 @@ In main non dev browser
 
  - [Node.js](http://nodejs.org)
    - Grunt, yeoman etc
-     - `sudo npm install -g grunt grunt-cli yo bower gulp jscs express-generator node-inspector jsxhint nodemon`
+     - change location of npm global https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md
+     - `npm install -g grunt grunt-cli yo bower gulp jscs express-generator node-inspector jsxhint nodemon`
  - [Sublime](http://www.sublimetext.com)
    - Register using serial in email ('Sublime Text License Key' from sales@sublimetext.com)
      - Mac: Set up command line access 
-       - sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/bin/subl
+       - sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
    - [Package manager](http://wbond.net/sublime_packages/package_control/installation)
    - Go to Preferences -> Browse Packages -> User -> edit 'Package Control.sublime-settings'
    - Preferences -> Package Settings
@@ -64,6 +66,8 @@ In main non dev browser
         	],
         	"installed_packages":
         	[
+            "API Blueprint",
+            "Babel",
         		"ChangeQuotes",
         		"DocBlockr",
         		"EditorConfig",
@@ -83,6 +87,7 @@ In main non dev browser
         		"SCSS",
         		"sublime-closure-linter",
         		"SublimeLinter",
+            "SublimeLinter-contrib-eslint",
         		"SublimeLinter-jscs",
         		"SublimeLinter-jshint"
         	],
