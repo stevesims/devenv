@@ -116,6 +116,7 @@ In main non dev browser
  - Git
    - [Official](http://git-scm.com/download) (already on Mac OS X)
    - [Git For Windows](http://msysgit.github.io/) (official port, newer versions available)
+   - [Hub](https://github.com/github/hub)
  - Git GUI
    - Windows
      - [TortoiseGit](http://code.google.com/p/tortoisegit/)
