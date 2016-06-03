@@ -153,6 +153,7 @@ In main non dev browser
    - brew install maven
  - React DevTools
    - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+  - [Dash](https://kapeli.com/dash)
 
 ##Mac
 
