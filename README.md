@@ -47,8 +47,8 @@ In main non dev browser
 
  - [Node.js](http://nodejs.org)
    - Grunt, yeoman etc
-     - change location of npm global https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md
-     - `npm install -g grunt grunt-cli yo bower gulp jscs express-generator node-inspector jsxhint nodemon`
+     - add permissions for current user to npm global OR change location of npm global https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md
+     - `npm install -g grunt grunt-cli yo bower gulp jscs express-generator node-inspector jsxhint nodemon jshint`
  - [Sublime](http://www.sublimetext.com)
    - Register using serial in email ('Sublime Text License Key' from sales@sublimetext.com)
      - Mac: Set up command line access 
