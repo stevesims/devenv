@@ -87,9 +87,10 @@ In main non dev browser
         		"SCSS",
         		"sublime-closure-linter",
         		"SublimeLinter",
-            "SublimeLinter-contrib-eslint",
+        		"SublimeLinter-contrib-eslint",
         		"SublimeLinter-jscs",
-        		"SublimeLinter-jshint"
+        		"SublimeLinter-jshint",
+        		"TypeScript"
         	],
         	"repositories":
         	[
