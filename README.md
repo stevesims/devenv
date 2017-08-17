@@ -1,7 +1,19 @@
 devenv
 ======
 
-Spec and (eventually, maybe) scripts to set up development environment
+Spec and scripts to set up development environment
+
+## Script
+
+run the following:
+
+```
+git clone git@github.com:penx/devenv.git
+cd devenv
+chmod +x install.sh
+./install.sh
+```
+
 
 ##Auto Setup Tools
  - Mac: [Get Mac Apps](http://getmacapps.com/)
