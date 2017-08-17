@@ -1,6 +1,6 @@
 # devenv
 
-Spec and scripts to set up development environment
+Scripts to set up development environment
 
 ## Script
 
@@ -17,6 +17,8 @@ export GISTTOKEN=TODO
 export MYEMAIL=email@example.com
 ./sshkey.sh
 ```
+
+# Not yet scripted
 
 ## Browsers & Testing
 
