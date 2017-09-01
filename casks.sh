@@ -18,5 +18,8 @@ brew cask install geektool
 brew cask install synergy
 brew cask install dash
 
+brew cask install font-material-icons
+brew cask install font-materialdesignicons-webfont
+
 # Needs password:
 brew cask install virtualbox

@@ -7,6 +7,7 @@ touch ~/.profile
 
 brew tap caskroom/cask
 brew tap caskroom/versions
+brew tap caskroom/fonts
 
 ./formulae.sh
 ./casks.sh
