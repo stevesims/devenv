@@ -15,6 +15,9 @@ brew tap caskroom/fonts
 # other installs
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
 
+xcode-select --install
+
+./config.sh
 # aliases
 # alias gpu=‘git pull && terminal-notifier -message "Git Pull complete"'
 
