@@ -17,6 +17,7 @@ brew cask install docker
 brew cask install geektool
 brew cask install synergy
 brew cask install dash
+brew cask install postman
 
 brew cask install font-material-icons
 brew cask install font-materialdesignicons-webfont
