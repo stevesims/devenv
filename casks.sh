@@ -21,6 +21,8 @@ brew cask install postman
 
 brew cask install font-material-icons
 brew cask install font-materialdesignicons-webfont
+brew cask install font-bebas-neue
+brew cask install font-oswald
 
 # Needs password:
 brew cask install virtualbox

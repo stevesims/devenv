@@ -13,10 +13,11 @@ brew tap caskroom/fonts
 ./casks.sh
 
 # other installs
+# TODO: get latest version of nvm
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
-
 xcode-select --install
 
+./docker.sh
 ./config.sh
 # aliases
 # alias gpu=‘git pull && terminal-notifier -message "Git Pull complete"'

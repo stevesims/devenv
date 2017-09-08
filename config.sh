@@ -5,3 +5,21 @@ defaults write NSGlobalDomain NSAutomaticDashSubstitutionEnabled -bool false
 defaults write NSGlobalDomain NSAutomaticQuoteSubstitutionEnabled -bool false
 defaults write -globalDomain NSAutomaticPeriodSubstitutionEnabled -bool false
 defaults write -globalDomain NSAutomaticCapitalizationEnabled -bool false
+# defaults write -globalDomain com.apple.swipescrolldirection -bool false
+
+# https://github.com/paularmstrong/dotfiles/blob/master/osx/defaults.sh
+/usr/libexec/PlistBuddy -c "Set :DesktopViewSettings:IconViewSettings:arrangeBy name" ~/Library/Preferences/com.apple.finder.plist
+
+# https://github.com/ymendel/dotfiles/blob/master/osx/finder.defaults
+defaults write com.apple.finder NewWindowTargetPath -string "file://$HOME"
+
+defaults write com.apple.screensaver askForPassword 1
+defaults write com.apple.screensaver askForPasswordDelay 0
+
+defaults write com.apple.dock wvous-bl-corner -int 5
+# defaults write com.apple.dock wvous-bl-modifier -int 0
+
+defaults write com.apple.Terminal "Default Window Settings" -string "Pro"
+defaults write com.apple.Terminal "Startup Window Settings" -string "Pro"
+
+# TODO: add items to dock
