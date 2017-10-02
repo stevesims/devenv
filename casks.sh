@@ -12,6 +12,7 @@ brew cask install evernote
 brew cask install licecap
 brew cask install java
 brew cask install android-sdk
+brew cask install android-studio
 brew cask install charles
 brew cask install docker
 brew cask install geektool
