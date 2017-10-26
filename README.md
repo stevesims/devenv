@@ -4,17 +4,21 @@ Scripts to set up development environment
 
 ## Script
 
-run the following:
+Set configuration settings - the Gist ID and token are for Atom Sync Settings - grab them from Atom Sync Settings at https://gist.github.com/penx
+
+```
+export GISTID=...
+export GISTTOKEN=...
+export MYEMAIL=...
+```
+
+Then run the following:
 
 ```
 git clone git@github.com:penx/devenv.git
 cd devenv
-chmod +x *.sh
 ./install.sh
-export GISTID=TODO
-export GISTTOKEN=TODO
 ./atom.sh
-export MYEMAIL=email@example.com
 ./sshkey.sh
 ```
 
