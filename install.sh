@@ -20,6 +20,4 @@ xcode-select --install
 # aliases
 # alias gpu=‘git pull && terminal-notifier -message "Git Pull complete"'
 
-nvm install 6
-nvm install 8
-nvm use 8
+./node.sh
