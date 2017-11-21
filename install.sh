@@ -3,6 +3,8 @@
 touch ~/.profile
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+echo 'export EDITOR=pico' >>~/.profile
+
 # casks
 
 brew tap caskroom/cask
