@@ -15,6 +15,7 @@ brew cask install android-sdk
 brew cask install android-studio
 brew cask install charles
 brew cask install docker
+open /Applications/Docker.app
 brew cask install geektool
 brew cask install synergy
 brew cask install dash
