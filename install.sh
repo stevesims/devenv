@@ -26,3 +26,11 @@ xcode-select --install
 # alias gpu=‘git pull && terminal-notifier -message "Git Pull complete"'
 
 ./node.sh
+
+# TODO:
+# React DevTools
+# https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+# Redux DevTools
+# https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+# Node Inspector Manager
+# https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj
