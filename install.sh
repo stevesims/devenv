@@ -28,6 +28,15 @@ xcode-select --install
 ./node.sh
 
 # TODO:
+#
+# Safari Addons
+#
+# uBlock Origin
+#
+# Chrome Addons
+#
+# Privacy Badger or uBlock Origin
+#
 # React DevTools
 # https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 # Redux DevTools
