@@ -5,3 +5,4 @@ brew install watchman
 brew install awscli
 brew install packer
 brew install yarn
+brew install hub
