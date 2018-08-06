@@ -12,11 +12,12 @@ export GISTTOKEN=...
 export MYEMAIL=...
 ```
 
-Then run the following:
+Then run the following (don't copy paste, as zsh will launch a new shell):
 
 ```
 git clone git@github.com:penx/devenv.git
 cd devenv
+./zsh.sh
 ./install.sh
 ./atom.sh
 ./sshkey.sh

@@ -28,5 +28,8 @@ brew cask install font-bebas-neue
 brew cask install font-oswald
 brew cask install font-monoid
 
+brew cask install istat-menus
+brew cask install intel-power-gadget
+
 # Needs password:
 brew cask install virtualbox
