@@ -8,9 +8,7 @@ echo 'export EDITOR=pico' >>~/.profile
 
 # casks
 
-brew tap caskroom/cask
-brew tap caskroom/versions
-brew tap caskroom/fonts
+brew tap homebrew/cask-versions
 
 ./formulae.sh
 ./casks.sh
