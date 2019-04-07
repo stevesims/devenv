@@ -15,7 +15,7 @@ export MYEMAIL=...
 Then run the following (don't copy paste, as zsh will launch a new shell):
 
 ```
-git clone git@github.com:penx/devenv.git
+git clone git@github.com:stevesims/devenv.git
 cd devenv
 ./zsh.sh
 ./install.sh
